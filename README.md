@@ -16,7 +16,7 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
+<p align="left" style="background:pink">
 <a href="https://www.linkedin.com/in/andre-pertence/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-andrefspx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
