@@ -1,4 +1,4 @@
-<img align="right" height="250em" src="https://images2.alphacoders.com/119/thumbbig-119152.webp"/>
+<img align="right" height="250em" src="https://seeklogo.com/images/G/gengar-logo-51B23095D0-seeklogo.com.png"/>
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm André Fernandes</h1>
 
 
