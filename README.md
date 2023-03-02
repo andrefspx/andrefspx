@@ -1,4 +1,4 @@
-<img align="right" height="250em" src="https://images4.alphacoders.com/936/thumbbig-936378.webp"/>
+<img align="right" height="250em" src="https://images2.alphacoders.com/119/thumbbig-119152.webp"/>
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm André Fernandes</h1>
 
 
